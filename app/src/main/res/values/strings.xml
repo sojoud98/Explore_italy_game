@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessPlace</string>
+    <string name="google_maps_API_key">AIzaSyBgZbglpMRz0TvIUzrPpg3m5SWHC9vp4Go</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
