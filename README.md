@@ -1,4 +1,4 @@
 # Explore_italy_game
 
-https://user-images.githubusercontent.com/24842890/104762786-99e67080-576d-11eb-9352-f4533ca448d6.mp4
+![Screen Shot 2021-01-15 at 7 58 12 PM](https://user-images.githubusercontent.com/24842890/104762882-c5695b00-576d-11eb-92a9-dcf608ee74f5.png)
 
