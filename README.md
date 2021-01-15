@@ -1,2 +1,4 @@
 # Explore_italy_game
-[![Application demo](https://imgur.com/a/G0VPU6Q)](https://youtu.be/6jBofmP-m0k)
+
+https://user-images.githubusercontent.com/24842890/104762786-99e67080-576d-11eb-9352-f4533ca448d6.mp4
+
