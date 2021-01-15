@@ -1,2 +1,2 @@
 # Explore_italy_game
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Application demo](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/6jBofmP-m0k)
