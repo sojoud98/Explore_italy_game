@@ -2,4 +2,4 @@
 
 See demo
 
-[![Screen Shot 2021-01-15 at 7 58 12 PM](https://user-images.githubusercontent.com/24842890/104762882-c5695b00-576d-11eb-92a9-dcf608ee74f5.png)](https://youtu.be/6jBofmP-m0k)
+[![Screen Shot 2021-01-15 at 9 08 33 PM](https://user-images.githubusercontent.com/24842890/104768178-e635ae80-5775-11eb-8a5b-5df3f485831a.png)](https://youtu.be/6jBofmP-m0k)
